@@ -15,7 +15,7 @@ https://github.com/BethMassi/BlazorHybridWebAPI/blob/7e773bc7f2b8e1707df469dcd06
 https://github.com/BethMassi/BlazorHybridWebAPI/blob/7e773bc7f2b8e1707df469dcd06c9a0ffd27fca9/BlazorHybridWebAPI/BlazorHybridWebAPI.Web/Services/WeatherService.cs#L6-L27
 
 ## WeatherService.cs on the .NET MAUI client
-Note that this class uses an HttpClientHelper class that manages the HttpClient configuration for use while debugging on simulators and emulators.
+Note that this class uses an [`HttpClientHelper`](https://github.com/BethMassi/BlazorHybridWebAPI/blob/b6ffd2c9f46a34d7300f3090e6fca15c34c7372d/BlazorHybridWebAPI/BlazorHybridWebAPI/Services/HttpClientHelper.cs#L6) class that manages the HttpClient configuration for use while debugging on simulators and emulators.
 https://github.com/BethMassi/BlazorHybridWebAPI/blob/7e773bc7f2b8e1707df469dcd06c9a0ffd27fca9/BlazorHybridWebAPI/BlazorHybridWebAPI/Services/WeatherService.cs#L12-L38
 
 ## MauiProgram.cs
